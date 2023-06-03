@@ -61,6 +61,7 @@ Server:
 ![image](https://github.com/Sindhuja9585/EX-5/assets/122860624/1eb646c0-d7dd-4a86-be4f-d48be31fe022)
 
 
+
 RESULT :
 
 Thus, python program for simulating RARP protocols using UDP was successfully executed.
